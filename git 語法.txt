@@ -1,0 +1,11 @@
+git init
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/xxxx/xxxx.git
+git push -u origin main
+
+
+
+這是如果你不小心網址打錯了，就靠這句
+git remote set-url origin https://github.com/xxx/xxx.git
