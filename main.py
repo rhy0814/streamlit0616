@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-st.image('img/ESG首頁.png')
-
 st.title('關於ESG的那些事')
 st.write('''
 
