@@ -55,4 +55,4 @@ aa='https://i0.wp.com/esgtimes.com.tw/wp-content/uploads/2025/02/image2.jpg?fit=
 st.image(aa,caption='美好的esg')
 st.image('img/ESG圖.png',caption='超級美好的esg')
 
-st.image('https://www.tejwin.com/wp-content/uploads/image-135-1024x535.png',caption='聯合國十七項宣言')
+
