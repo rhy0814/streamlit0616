@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 
+st.image('img/ESG首頁.png')
+
 st.title('關於ESG的那些事')
 st.write('''
 
@@ -53,6 +55,6 @@ st.write('''
 
 aa='https://i0.wp.com/esgtimes.com.tw/wp-content/uploads/2025/02/image2.jpg?fit=1000%2C667&ssl=1'
 st.image(aa,caption='美好的esg')
-st.image('img/ESG圖.png',caption='超級美好的esg')
+
 
 
